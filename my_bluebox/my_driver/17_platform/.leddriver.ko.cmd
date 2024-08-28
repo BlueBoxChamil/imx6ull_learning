@@ -1,0 +1,1 @@
+cmd_/home/bluebox/my_bluebox/my_driver/17_platform/leddriver.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/bluebox/my_bluebox/my_driver/17_platform/leddriver.ko /home/bluebox/my_bluebox/my_driver/17_platform/leddriver.o /home/bluebox/my_bluebox/my_driver/17_platform/leddriver.mod.o

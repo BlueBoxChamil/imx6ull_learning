@@ -1,0 +1,1 @@
+cmd_/home/bluebox/my_bluebox/my_driver/4_dtsof/dtsof.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/bluebox/my_bluebox/my_driver/4_dtsof/dtsof.ko /home/bluebox/my_bluebox/my_driver/4_dtsof/dtsof.o /home/bluebox/my_bluebox/my_driver/4_dtsof/dtsof.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/bluebox/my_bluebox/my_driver/3_newchrled/newchrled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/bluebox/my_bluebox/my_driver/3_newchrled/newchrled.ko /home/bluebox/my_bluebox/my_driver/3_newchrled/newchrled.o /home/bluebox/my_bluebox/my_driver/3_newchrled/newchrled.mod.o

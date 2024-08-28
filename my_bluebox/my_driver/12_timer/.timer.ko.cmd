@@ -1,0 +1,1 @@
+cmd_/home/bluebox/my_bluebox/my_driver/12_timer/timer.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/bluebox/my_bluebox/my_driver/12_timer/timer.ko /home/bluebox/my_bluebox/my_driver/12_timer/timer.o /home/bluebox/my_bluebox/my_driver/12_timer/timer.mod.o

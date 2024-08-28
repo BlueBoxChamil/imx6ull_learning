@@ -1,0 +1,1 @@
+cmd_/home/bluebox/my_bluebox/my_driver/10_mutex/mutex.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/bluebox/my_bluebox/my_driver/10_mutex/mutex.ko /home/bluebox/my_bluebox/my_driver/10_mutex/mutex.o /home/bluebox/my_bluebox/my_driver/10_mutex/mutex.mod.o

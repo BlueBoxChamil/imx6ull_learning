@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/bluebox/my_bluebox/my_zIamge/include",
+                "/home/bluebox/my_bluebox/my_zIamge/arch/arm/include",
+                "/home/bluebox/my_bluebox/my_zIamge/arch/arm/include/generated"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

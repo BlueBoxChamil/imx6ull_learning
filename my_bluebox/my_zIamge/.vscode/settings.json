@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.vue": "html",
+        "*.css": "tailwindcss",
+        "err.h": "c"
+    }
+}
